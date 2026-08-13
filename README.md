@@ -1,4 +1,5 @@
-<img width="1521" height="392" alt="Image" src="https://github.com/user-attachments/assets/3c0cadb8-17e4-4cba-9cb6-a20a1973cd93" />\
+<img width="1521" height="392" alt="Image" src="https://github.com/user-attachments/assets/3c0cadb8-17e4-4cba-9cb6-a20a1973cd93" />
+<br/>
 Hello, I am Afifah, a Cybersecurity student who enjoys figuring out how things work. Interested in blue and red teaming. Other than cybersecurity, I also interested in learning and exploring more about Full Stack Development, Networking, and UI/UX prototype designing.
 
 **Cybersecurity tools**: Kali Linux, Wireshark, Burp Suite, Volatility\
