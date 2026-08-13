@@ -1,8 +1,13 @@
 Hello, I am Afifah, a Cybersecurity student who enjoys figuring out how things work. Interested in blue and red teaming. Other than cybersecurity, I also interested in learning and exploring more about Full Stack Development, Networking, and UI/UX prototype designing.
 
-**Cybersecurity tools**: Kali Linux, Wireshark, Burp Suite, Volatility
-**Tech stack**: Python, C++, C#, Java, SQL, HTML/CSS
-**Prototyping tool**: Figma
+**Cybersecurity tools**: Kali Linux, Wireshark, Burp Suite, Volatility\
+**Tech stack**: Python, C++, C#, Java, SQL, HTML, CSS\
+**Prototyping tool**: Figma (i love figma <3)
+
+Hobby: Drawing
+
+I'm still learning and definitely don't know everything yet, so this GitHub is where I document some of the things I'm building and experimenting with.
+
 
 
 <!--
